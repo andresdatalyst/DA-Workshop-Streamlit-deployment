@@ -1,8 +1,8 @@
-# 🚀 Streamlit ML App - Despliegue con Docker
+# Streamlit ML App - Despliegue con Docker
 
 Este proyecto contiene aplicaciones de Machine Learning desarrolladas con Streamlit, listas para ser desplegadas usando Docker.
 
-## 📋 Requisitos Previos
+## Requisitos Previos
 
 - Git instalado
 - Docker Desktop instalado
@@ -10,7 +10,7 @@ Este proyecto contiene aplicaciones de Machine Learning desarrolladas con Stream
 - Cuenta en DockerHub
 - Python 3.12+ (opcional, para desarrollo local)
 
-## 🔄 Crear tu Repositorio desde este Template
+## Crear tu Repositorio desde este Template
 
 ### 1. Clonar el Repositorio Original
 
