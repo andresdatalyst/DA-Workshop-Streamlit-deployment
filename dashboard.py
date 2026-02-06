@@ -18,7 +18,7 @@ hide_deploy_button = """
 st.markdown(hide_deploy_button, unsafe_allow_html=True)
 
 # Título
-st.title("🏠 Dashboard: Precios de Viviendas en California")
+st.title("🏠 Dashboard: Precios de Viviendas en California y mi primer deployment")
 
 # Cargar datos con cache
 @st.cache_data
